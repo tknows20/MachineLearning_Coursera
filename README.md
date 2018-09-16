@@ -1,4 +1,2 @@
-# exploring_movie_data
 # MachineLearning_Coursera
-# MachineLearning_Coursera
-# MachineLearning_Coursera
+This repo is for the code written for Andrew Ng's Machine Learning Course on Coursera
